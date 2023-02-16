@@ -1,0 +1,11 @@
+#include <stdio.h>
+int main()
+{
+    printf("\nab");	
+	printf("\bsi");	
+	printf("\rha");
+}
+/*Output:>
+hai*/
+
+
